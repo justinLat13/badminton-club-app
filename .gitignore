@@ -1,0 +1,12 @@
+# Ignore Python compiled files
+__pycache__/
+
+# Ignore virtual environment (if using venv)
+venv/
+.venv/
+
+# Ignore logs and temp files
+*.log
+.DS_Store
+
+/.vscode/
