@@ -9,4 +9,9 @@ venv/
 *.log
 .DS_Store
 
+# Ignore vscode files
 /.vscode/
+
+# Ignore Node Modules and Next JS files
+node_modules/
+.next/
